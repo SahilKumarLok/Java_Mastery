@@ -29,15 +29,3 @@ Each level contains a series of programs and a capstone project to put your skil
 | Beginner    | 🚧 In Progress | Core Syntax, OOP Basics         | Student Management System |
 | Intermediate| ❌ Pending | Collections, Threads, File I/O | Multi-Threaded Chat App    |
 | Expert      | ❌ Pending  | Spring Boot, Microservices      | E-Commerce Microservice    |
-
-## 🛠️ How to Use This Repository
-
-### 1. **Navigating the Levels**
-Each level folder (e.g., `01_Beginner`) contains:
-- 10 practice programs to demonstrate core concepts.
-- 1 capstone project to showcase your skills.
-
-To run a program, use the following command:
-```bash
-cd 01_Beginner/01_HelloWorld
-javac HelloWorld.java && java HelloWorld
